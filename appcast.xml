@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FlexiBackup</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Mon, 15 Jul 2024 22:46:19 +0800</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LeeKahSeng/FlexiBackup-Release/releases/download/test/FlexiBackup0.9.dmg" length="5213187" type="application/octet-stream" sparkle:edSignature="ySDYH8t6yfIszWyP91l2tYFJhlHScmXb6m5tmRwmWVMEGulvaAJLqAeI2daxdKN9FHy5Ccd7zsZAwiZI2PriAg=="/>
+        </item>
+    </channel>
+</rss>
