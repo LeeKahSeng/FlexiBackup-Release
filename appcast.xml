@@ -4,11 +4,11 @@
         <title>FlexiBackup</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Mon, 15 Jul 2024 23:07:04 +0800</pubDate>
+            <pubDate>Tue, 13 Aug 2024 22:24:33 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LeeKahSeng/FlexiBackup-Release/releases/download/testv1.0.0/FlexiBackup1.0.0.dmg" length="5214131" type="application/octet-stream" sparkle:edSignature="j5cfsVfFUS6JO+/Km58ovOFAFpPQo6e5XSAv3uvfAfoaaVaPU/4juiuTTDqbXelhrqbpJKqubCnIIz95GGIgDg=="/>
+            <enclosure url="https://www.dropbox.com/scl/fi/o68m9uviqlt3wjxz8pery/FlexiBackup-dropbox.dmg?rlkey=72utawn93lox3whauir7sy5hs&st=raste6mh&dl=1" length="5297576" type="application/octet-stream" sparkle:edSignature="dU/6WBkkpj4ydFF2EXe3WvUmyCpmd9dz4aGBjJZcTdGtF4heILUuzahpcUJ4pNUWL3ITHpPyixrlPOFHtE6DAw=="/>
         </item>
     </channel>
 </rss>
