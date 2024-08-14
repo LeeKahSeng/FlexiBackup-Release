@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.dropbox.com/scl/fi/o68m9uviqlt3wjxz8pery/FlexiBackup-dropbox.dmg?rlkey=72utawn93lox3whauir7sy5hs&amp;st=raste6mh&amp;dl=1" length="5297576" type="application/octet-stream" sparkle:edSignature="dU/6WBkkpj4ydFF2EXe3WvUmyCpmd9dz4aGBjJZcTdGtF4heILUuzahpcUJ4pNUWL3ITHpPyixrlPOFHtE6DAw=="/>
+            <enclosure url="https://www.dropbox.com/scl/fi//FlexiBackup-dropbox.dmg?abcd1234" length="5297576" type="application/octet-stream" sparkle:edSignature="dU/6WBkkpj4ydFF2EXe3WvUmyCpmd9dz4aGBjJZcTdGtF4heILUuzahpcUJ4pNUWL3ITHpPyixrlPOFHtE6DAw=="/>
         </item>
     </channel>
 </rss>
